@@ -55,7 +55,7 @@ const Projects = () => {
       ],
       tech: ["React", "TypeScript", "Tailwind CSS", "Bolt"],
       deployment: "Hosted on Vercel",
-      github: "https://github.com/mahendra8432/mahendra-portfolio",
+      github: "https://github.com/mahendra8432/portfolio",
       icon: <User className="text-gray-700" size={26} color='white' />,
       gradient: "from-gray-500 to-gray-500",
       bgGradient: "from-gray-50 to-white"
